@@ -275,7 +275,7 @@ nav a{
 .hero-image img{
     width:350px;
     height:350px;
-    object-fit:cover;
+    object-fit:contain;
     border-radius:50%;
     border:6px solid #38f838;
 
@@ -471,7 +471,7 @@ transform:translateY(10px);
     .project-card img{
         width:100%;
         height:220px;
-        object-fit:cover;
+        object-fit:contain;
     }
     
     .project-content{
